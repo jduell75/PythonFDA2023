@@ -28,3 +28,10 @@ e. Conclusion
 In conclusion, the dataset selected appears to show the highest causal factors for drug overdose deaths being white, male, age 30-39, living in CT.  However these results could be due to the sample size of this
 particular dataset that I selected to use for this project.  The reason it seems like drug overdoses are more common in white people in the state of CT is because this dataset could have happened to have more
 datapoints from these two categories, not necessarily because they're causal factors.
+
+f. Code
+
+https://github.com/jduell75/PythonFDA2023
+	readme.txt
+	Final Project Part 3.ipynb
+	drug_deaths.csv
